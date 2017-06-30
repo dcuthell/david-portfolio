@@ -53,3 +53,19 @@ body{
     margin-right: 16%;
   }
 }
+
+@keyframes awesome{
+  0% {
+    color: black;
+  }
+  50%{
+    color: gold;
+  }
+  100%{
+    color: black;
+  }
+}
+
+.flashy{
+  animation: awesome 2s infinite;
+}
