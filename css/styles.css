@@ -1,3 +1,42 @@
+body{
+  background: linear-gradient(#EDEFFE, #EDFEEE, #EDEFFE);
+}
+
 .nobullet{
   list-style-type: none;
+}
+
+.roman{
+  list-style-type: upper-roman;
+  list-style-position: inside;
+}
+
+.profile{
+  width: 100%;
+  margin-bottom: 4%;
+}
+
+@media screen and (min-width: 768px) {
+  .profile{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 4%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .profile{
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .profile{
+    width: 68%;
+    margin-left: 16%;
+    margin-right: 16%;
+  }
 }
