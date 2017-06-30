@@ -92,3 +92,16 @@ body{
 .flashy{
   animation: awesome 2s infinite;
 }
+
+@keyframes fadein{
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  animation: fadein 5s;
+}
