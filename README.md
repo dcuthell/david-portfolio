@@ -1,12 +1,12 @@
-# _{David's Portfolio}_
+# _David's Portfolio_
 
-#### _{David's Portfolio is a collection of information about David and his works}, {06/30/17}_
+#### _David's Portfolio is a collection of information about David and his works, 06/30/17_
 
-#### By _**{David Cuthell}**_
+#### By _**David Cuthell**_
 
 ## Description
 
-_{David's Portfolio is a website where one can find information about David. It includes some basic information about him, his education and work history, his hobbies and interests, and provides links to some of the projects he has worked on in the past. There is also a poetry section}_
+_David's Portfolio is a website where one can find information about David. It includes some basic information about him, his education and work history, his hobbies and interests, and provides links to some of the projects he has worked on in the past. There is also a poetry section_
 
 ## Setup/Installation Requirements
 
@@ -18,11 +18,11 @@ _{David's Portfolio is a website where one can find information about David. It 
 
 ## Known Bugs
 
-_{No known bugs at this time}_
+_No known bugs at this time_
 
 ## Support and contact details
 
-_{For technical support, additional information, or feedback, please send an email to dcc1447@gmail.com, or call 201-575-3676.}_
+_For technical support, additional information, or feedback, please send an email to dcc1447@gmail.com, or call 201-575-3676._
 
 ## Technologies Used
 
@@ -34,6 +34,6 @@ _{For technical support, additional information, or feedback, please send an ema
 
 ### License
 
-*{This product is licensed under the MIT license}*
+*This product is licensed under the MIT license*
 
-Copyright (c) 2017 **_{David Cuthell}_**
+Copyright (c) 2017 **_David Cuthell_**
