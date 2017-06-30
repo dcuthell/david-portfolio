@@ -5,6 +5,7 @@ body{
 .jumbotron{
   background: linear-gradient(#EDEFFE, #EDFEEE)
 }
+
 .nobullet{
   list-style-type: none;
 }

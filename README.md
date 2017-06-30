@@ -6,7 +6,7 @@
 
 ## Description
 
-_David's Portfolio is a website where one can find information about David. It includes some basic information about him, his education and work history, his hobbies and interests, and provides links to some of the projects he has worked on in the past. There is also a poetry section_
+_David's Portfolio is a website where one can find information about David. It includes some basic information about him, his education and work history, his hobbies and interests, and provides links to some of the projects he has worked on in the past. There is also a poetry section._
 
 ## Setup/Installation Requirements
 
