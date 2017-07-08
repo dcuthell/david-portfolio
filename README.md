@@ -22,7 +22,7 @@ _No known bugs at this time_
 
 ## Support and contact details
 
-_For technical support, additional information, or feedback, please send an email to dcc1447@gmail.com, or call 201-575-3676._
+_For technical support, additional information, or feedback, please send an email to dcc1447@gmail.com, or call 281-330-8004._
 
 ## Technologies Used
 
